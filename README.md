@@ -22,7 +22,7 @@
 <a href="https://dev.to/shouvik126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shouvik126" height="30" width="40" /></a>
 <a href="https://twitter.com/shouvik126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shouvik126" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shouvik-pradhan-b3b643131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shouvik-pradhan-b3b643131" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/clear dive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clear dive" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCij_9hON0psnr5teLhziBWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clear dive" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
