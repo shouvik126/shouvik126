@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shouvik Pradhan</h1>
-<h3 align="center">A Passionate Web3 explorer and professional Full Stack Java developer from India</h3>
+<h3 align="center">A Passionate Mobile App developer and professional Full Stack Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shouvik126&label=Profile%20views&color=0e75b6&style=flat" alt="shouvik126" /> </p>
 
