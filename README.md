@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/shouvik126" target="blank"><img src="https://img.shields.io/twitter/follow/shouvik126?logo=twitter&style=for-the-badge" alt="shouvik126" /></a> </p>
 
-- 🔭 I’m currently working on [Expense-Tracker](https://cleardive.github.io/Expense-Tracker-UI/)
+- 🔭 I’m currently working on [FinWiz(Expense-Tracker)]([https://cleardive.github.io/Expense-Tracker-UI/](https://play.google.com/store/apps/details?id=in.skilldives.money_management&pcampaignid=web_share))
 
-- 🌱 I’m currently learning **Blockchain, Web3, Solidity, Kubernetes**
+- 🌱 I’m currently learning **Hibernate, Docker, Flutter, Spring Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cleardive/](https://github.com/cleardive/)
+- 👨‍💻 All of my projects are available at [https://github.com/cleardive/]([https://github.com/cleardive/](https://github.com/shouvik126?tab=repositories))
 
-- 💬 Ask me about **Spring Boot, Spring security, Web3**
+- 💬 Ask me about **Spring Boot, Spring security, Flutter, Java**
 
 - 📫 How to reach me **shouvikpradhan126@gmail.com**
 
